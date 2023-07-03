@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    background-color: blueviolet;
+   margin: 15px;
+   padding: 15px;
+   color: coral;
+
+}
+.workout{
+    margin: 50px;
+    display: inline-flexbox;
+    text-align: right;
+}
+.plan1{
+    margin: 40px;
+    background-color: aqua;
+    height: 100px;
+    line-height: 100px;
+    display: flex;
+    font-size: 100px;
+   
+}
+.plan2{
+    margin: 40px;
+    background-color: aqua;
+    height: 100px;
+    line-height: 100px;
+    display: flex;
+     font-size: 50px;
+   
+}
+.plan3{
+    margin: 40px;
+    background-color: aqua;
+    height: 100px;
+    line-height: 100px;
+    display: flex;
+    justify-items: right;
+    font-size: 100px;
+   
+}
+.plan4{
+    margin: 40px;
+    background-color: aqua;
+    height: 100px;
+    line-height: 100px;
+    display: flex;
+    justify-items: right;
+    font-size: 100px;
+   
+}
+.plan5{
+    margin: 40px;
+    background-color: aqua;
+    height: 100px;
+    line-height: 100px;
+    display: flex;
+    justify-items: right;
+    font-size: 80px;
+   
+}
+
+
+img{
+    height: 95px;
+    display: flex;
+    float: left;
+    padding-left: 60px;
+}
+
+.displa{
+    display: flex;
+    justify-content: flex-end;
+}
+
+    
+
+
